@@ -1,0 +1,23 @@
+========== All Patients ==========
+
+----Patient Details----
+patient id : P(patient.count:03d)
+patient name : Rohit
+age : 21
+disease : Fever
+
+========== All Doctors ==========
+----Doctor Details----
+doctor id : D(doctor.count:03d)
+doctor name : Dr. Sharma
+specialization : Cardiologist
+Patient not found: P002
+Patient not found: P010
+
+========== All Patients ==========
+
+----Patient Details----
+patient id : P(patient.count:03d)
+patient name : Rohit
+age : 21
+disease : Fever
